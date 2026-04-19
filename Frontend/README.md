@@ -21,10 +21,10 @@ This frontend serves as the presentation layer, ensuring smooth interaction, fas
 
 🛠️ Tech Stack
 
-Frontend Framework: React.js
-Styling: Tailwind CSS / CSS3
-State Management: React Hooks
-Routing: React Router
+Frontend Framework: React.js <br>
+Styling: Tailwind CSS / CSS3 <br>
+State Management: React Hooks <br>
+Routing: React Router <br>
 Version Control: Git & GitHub
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
