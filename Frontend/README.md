@@ -12,12 +12,12 @@ This frontend serves as the presentation layer, ensuring smooth interaction, fas
 
 ✨ Features
 
-🔧 Interactive vehicle customization interface
-⚡ Fast and responsive design
-🎯 User-friendly navigation and layout
-📊 Dynamic UI updates based on user input
+🔧 Interactive vehicle customization interface <br>
+⚡ Fast and responsive design <br>
+🎯 User-friendly navigation and layout <br>
+📊 Dynamic UI updates based on user input <br>
 🌐 API integration ready (for backend connectivity)
-📱 Fully responsive (mobile + desktop)
+
 
 🛠️ Tech Stack
 
